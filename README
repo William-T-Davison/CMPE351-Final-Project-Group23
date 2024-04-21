@@ -1,0 +1,15 @@
+In this project, we aimed to explore and analyze the factors
+influencing the pricing of Airbnb listings, focusing on three
+critical aspects: the impact of the average lister rating on
+price, finding the feature that is most influential on the
+price of a listing, and the relationship of local house prices
+in the area vs Airbnb listing prices. The input for our
+problem consists of data from Airbnb listings, including, list
+price, reviews per month, total number of reviews, room
+type, availability, location, and minimum nights required to
+book. We will also be utilizing Zillow’s dataset of housing
+sales to compare housing prices to rental prices. The input
+from this dataset will be, price, building type, and location.
+The expected outcome of our problem is a comprehensive
+understanding of what factors correlate with Airbnb pricing
+and what effect they have.
